@@ -1,1 +1,1 @@
-Arranging the peoples classes in a readable manner,IF YOU WANT TO UNDERSTAD THIS PROBLEM STATEMENT,PLEASE CLICK THIS LINK https://open.kattis.com/problems/classy
+Arranging the peoples classes in a readable manner,PLEASE CLICK THIS LINK TO UNDERSTAND THIS PROBLEM STATEMENT https://open.kattis.com/problems/classy
